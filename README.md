@@ -138,11 +138,16 @@ The following is a list of items that still need to be implemented:
 - Average Strategy CFR (AS-CFR) for no-limit games
 - Add test cases for games where additional holecards come after the first round when there may be a variable number of players. It may currently work, but it's untested on any of the implemented CFR variants.
 
+Installation
+------------
+pip install .
+
 
 Contributors
 ------------
 
 Wesley Tansey
+Billy Yang
 
 Hand evaluator code courtesy of [Alvin Liang's library](https://github.com/aliang/pokerhand-eval).
 
